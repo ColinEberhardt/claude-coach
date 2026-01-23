@@ -11,9 +11,17 @@ This skill downloads training data from Strava and creates weekly markdown summa
 
 ## Workflow
 
-### 1. Check Strava Connection
+### 1. Get Week Number from User
 
-First, verify that Strava is connected:
+First, ask the user to provide the training week number:
+
+- Prompt: "Which training week would you like to sync? (e.g., 1, 2, 3)"
+- Store this number as the week identifier
+- The file will be saved as `week-{n}.md` where {n} is this week number
+
+### 2. Check Strava Connection
+
+Verify that Strava is connected:
 
 ```bash
 # Check connection status
@@ -21,7 +29,7 @@ First, verify that Strava is connected:
 
 Use the `mcp__strava__check-strava-connection` tool to verify the connection. If not connected, use `mcp__strava__connect-strava` to authenticate.
 
-### 2. Fetch Recent Activities
+### 3. Fetch Recent Activities
 
 Retrieve the last 7 days of activities from Strava:
 
@@ -29,7 +37,7 @@ Retrieve the last 7 days of activities from Strava:
 2. Filter activities to only those from the last 7 days
 3. Calculate the week date range (e.g., "2024-01-15 to 2024-01-21")
 
-### 3. Process Each Activity
+### 4. Process Each Activity
 
 For each activity in the last week:
 
@@ -58,19 +66,110 @@ For each activity in the last week:
      - Average heart rate
      - Elevation gain
 
-### 4. Format as Markdown
+### 5. Calculate Week Totals
 
-Create a markdown file with the following structure:
+**IMPORTANT**: Use Python to calculate all totals to ensure mathematical accuracy. Do NOT calculate totals manually.
+
+Use the `mcp__ide__executeCode` tool or Bash with Python to:
+1. Group activities by type (Run, Ride, Swim, etc.)
+2. For each activity type, calculate:
+   - Total distance
+   - Total time
+   - Total elevation gain
+   - Activity count
+3. Calculate overall totals across all activity types
+
+Example Python calculation:
+```python
+from collections import defaultdict
+
+# Given activities list
+activities = [...]  # Your activities data
+
+# Group by activity type
+by_type = defaultdict(list)
+for activity in activities:
+    activity_type = activity['type']  # e.g., 'Run', 'Ride', 'Swim'
+    by_type[activity_type].append(activity)
+
+# Calculate totals per activity type
+type_totals = {}
+for activity_type, activities_of_type in by_type.items():
+    total_distance = sum(a['distance'] for a in activities_of_type)  # in meters
+    total_time = sum(a['moving_time'] for a in activities_of_type)  # in seconds
+    total_elevation = sum(a['total_elevation_gain'] for a in activities_of_type)  # in meters
+    count = len(activities_of_type)
+    
+    # Convert to display units
+    distance_miles = total_distance * 0.000621371
+    hours = total_time // 3600
+    minutes = (total_time % 3600) // 60
+    seconds = total_time % 60
+    elevation_feet = total_elevation * 3.28084
+    
+    type_totals[activity_type] = {
+        'count': count,
+        'distance': f"{distance_miles:.2f} miles",
+        'time': f"{hours:02d}:{minutes:02d}:{seconds:02d}",
+        'elevation': f"{elevation_feet:.0f} ft"
+    }
+
+# Calculate overall totals
+total_distance = sum(a['distance'] for a in activities)
+total_time = sum(a['moving_time'] for a in activities)
+total_elevation = sum(a['total_elevation_gain'] for a in activities)
+total_count = len(activities)
+
+# Convert to display units
+overall_distance_miles = total_distance * 0.000621371
+overall_hours = total_time // 3600
+overall_minutes = (total_time % 3600) // 60
+overall_seconds = total_time % 60
+overall_elevation_feet = total_elevation * 3.28084
+
+print(f"Overall Total Activities: {total_count}")
+print(f"Overall Total Distance: {overall_distance_miles:.2f} miles")
+print(f"Overall Total Time: {overall_hours:02d}:{overall_minutes:02d}:{overall_seconds:02d}")
+print(f"Overall Total Elevation: {overall_elevation_feet:.0f} ft")
+print("\nBy Activity Type:")
+for activity_type, totals in type_totals.items():
+    print(f"\n{activity_type}:")
+    print(f"  Count: {totals['count']}")
+    print(f"  Distance: {totals['distance']}")
+    print(f"  Time: {totals['time']}")
+    print(f"  Elevation: {totals['elevation']}")
+```
+
+### 6. Format as Markdown
+
+Create a markdown file with the following structure, using the calculated totals:
 
 ```markdown
 # Training Log: [Start Date] to [End Date]
 
 ## Week Summary
 
-- **Total Activities**: [count]
-- **Total Distance**: [distance] miles/km
-- **Total Time**: [duration]
-- **Total Elevation**: [elevation] ft/m
+### Overall Totals
+- **Total Activities**: [count from calculation]
+- **Total Distance**: [distance from calculation] miles/km
+- **Total Time**: [duration from calculation]
+- **Total Elevation**: [elevation from calculation] ft/m
+
+### By Activity Type
+
+#### Run
+- **Activities**: [count]
+- **Distance**: [distance] miles
+- **Time**: [HH:MM:SS]
+- **Elevation**: [elevation] ft
+
+#### Ride
+- **Activities**: [count]
+- **Distance**: [distance] miles
+- **Time**: [HH:MM:SS]
+- **Elevation**: [elevation] ft
+
+[Include sections for each activity type present in the week]
 
 ## Activities
 
@@ -97,26 +196,28 @@ Create a markdown file with the following structure:
 [Continue for each activity...]
 ```
 
-### 5. Save to training-log Folder
+### 7. Save to training-log Folder
 
 1. Create the `training-log` folder if it doesn't exist:
    ```bash
    mkdir -p training-log
    ```
 
-2. Generate filename based on week dates:
-   - Format: `week-YYYY-MM-DD.md` (using the Monday of that week)
-   - Example: `week-2024-01-15.md`
+2. Generate filename using the week number provided by the user:
+   - Format: `week-{n}.md` where {n} is the week number
+   - Example: `week-1.md`, `week-2.md`, `week-3.md`, etc.
 
 3. Write the markdown content to the file
 
-### 6. Provide Summary
+### 8. Provide Summary
 
 After syncing, provide a brief summary:
+- Week number
 - Number of activities synced
 - Date range covered
-- File location
+- File location (e.g., `training-log/week-1.md`)
 - Any activities that are workouts with lap details
+- Confirm that totals were calculated using Python/script
 
 ## MCP Tools Used
 

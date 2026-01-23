@@ -12,7 +12,8 @@
       "Skill(training-plan)",
       "Skill(strava-sync)",
       "Bash(chmod:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Skill(running-coach)"
     ],
     "deny": [],
     "ask": []
