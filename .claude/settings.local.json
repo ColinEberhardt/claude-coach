@@ -2,13 +2,17 @@
   "permissions": {
     "allow": [
       "Bash(python:*)",
+      "mcp__strava__check-strava-connection",
+      "mcp__strava__connect-strava",
       "mcp__strava__get-recent-activities",
       "mcp__strava__get-activity-details",
       "mcp__strava__get-activity-laps",
       "Skill(skill-creator)",
       "Bash(python3:*)",
       "Skill(training-plan)",
-      "Bash(chmod:*)"
+      "Skill(strava-sync)",
+      "Bash(chmod:*)",
+      "Bash(mkdir:*)"
     ],
     "deny": [],
     "ask": []

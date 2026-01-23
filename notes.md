@@ -29,6 +29,7 @@ Training plan
   > I notice you indicated 3 days per week for training. This is quite limited for an 83-minute half marathon goal
   (which is highly competitive). With only 3 running days per week, you'll need very focused, quality sessions.
 
+
   
 
 ## General Ponderings
