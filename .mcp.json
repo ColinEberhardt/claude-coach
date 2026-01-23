@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "strava": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@r-huijts/strava-mcp-server"
+      ],
+      "env": {}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "mcp__strava__get-recent-activities",
+      "mcp__strava__get-activity-details",
+      "mcp__strava__get-activity-laps",
+      "Skill(skill-creator)",
+      "Bash(python3:*)",
+      "Skill(training-plan)",
+      "Bash(chmod:*)"
+    ],
+    "deny": [],
+    "ask": []
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "strava"
+  ]
+}
