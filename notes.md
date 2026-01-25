@@ -31,6 +31,9 @@ Training plan
 
 ## strava sync
  - had to force it to do maths properly
+
+## coach
+ - surprisingly easy
   
 
 ## General Ponderings

@@ -1,124 +1,115 @@
 # Week 1 Coaching Notes
 **Date:** January 23, 2026
-**Athlete:** Colin Eberhardt
-**Training Phase:** Foundation with Quality (Week 1 of 12)
+**Training Week:** January 17-23, 2026
 
 ## Week Summary
-- **Planned:** 24.5 miles (Threshold workout, Easy 8 miles, Long run 10 miles)
-- **Actual:** 22.39 miles running (6 activities)
-- **Volume:** 22.39 miles (92% of planned)
-- **Cross-Training:** 43 miles cycling, 19 miles walking, 1 strength workout
+- **Planned:** 3 sessions totaling 24.5 miles (Threshold workout, 8 miles easy + strides, 10 miles easy)
+- **Actual:** 22.4 miles running across 6 activities (plus 43 miles cycling, 18.7 miles walking)
+- **Volume:** 22.4 miles (planned: 24.5 miles) - 91% completion
 
 ## Athlete's Perspective
-- Overall feel: Generally very good, pleased with 8x1k session
-- Later sessions challenging due to high winds
-- Felt ready for intervals, jumped to Week 2 workout
-- Recovery: Normal fatigue, ready for Week 2
+- Overall feeling: "Felt good for week 1"
+- Energy: Not too tired, but not full of energy - somewhere in the middle
+- Sleep: Good
+- Energy levels: Good
+- Mood: Excited about the training plan
+- Standout workout: 8x1k session - pleased to hold pace across 8 reps
+- Body feeling: Good, a bit tired
+- Cross-training: Cycling to work (43 miles) - using as cross-training complement
 
 ## Session Analysis
 
-### Session 1: 8 x 1km Intervals (Jan 19)
-- **Status:** Completed (Week 2 workout done early)
-- **Prescribed:** Week 2's 6 x 1km @ I pace (5:41-5:55/mile)
-- **Actual:** 8 x 1km @ 5:58-6:03/mile pace
-- **Pacing:** Slightly slower than target but did 8 reps instead of 6. Excellent consistency (5-second variance across all reps)
-- **Heart Rate:** 150-162 bpm on intervals, good recovery between reps
-- **Notes:** Strong execution. Athlete felt "happy with that." Shows good fitness and readiness. Consistency more important than hitting fastest target pace.
+### Session 1: 8x1km Interval Workout (January 19)
+- **Status:** Completed (NOT on plan - this was a Week 2+ workout)
+- **Distance:** 5.51 miles total
+- **Interval Paces:** 6:01, 6:03, 5:58, 5:58, 5:58, 5:59, 5:59, 5:51 /mile
+- **Heart Rate:** 150 avg, 172 max
+- **Analysis:** Excellent execution - very consistent pacing across all 8 reps. Proper VO2max intensity (HR 150-172). Recovery periods allowed adequate HR drop. However, this workout was harder than prescribed (6x1k scheduled for Week 2) and not on Week 1 plan.
+- **Notes:** Athlete wanted to "test himself, start hard" - completed 8 reps instead of the scheduled threshold work.
 
-### Session 2: 3-Mile Threshold Run (Jan 21)
-- **Status:** Completed (modified structure)
-- **Prescribed:** 3 x 1 mile @ T pace (6:04-6:19) with 0.25 mile jog recovery
-- **Actual:** 3 x 1 mile @ 6:06, 6:22, 6:36
-- **Pacing:** First rep perfect, faded 30 seconds from rep 1 to rep 3. Drifted outside target zone.
-- **Heart Rate:** 151, 162, 165 bpm - increasing effort across reps
-- **Terrain:** Hilly (230 ft elevation in 4.12 miles)
-- **Notes:** Good start, poor finish. Suggests either aggressive first rep, insufficient recovery, or cumulative fatigue from intervals 2 days prior. Need better pacing discipline.
+### Session 2: 3x1 Mile Threshold (January 21)
+- **Status:** Completed (actual Week 1 prescribed workout)
+- **Distance:** 4.12 miles total
+- **Mile Splits:** 6:06, 6:22, 6:36 /mile (target: 6:04-6:19)
+- **Heart Rate:** 148 avg, 172 max
+- **Pacing Analysis:** First mile right on target at 6:06. Significant fade of 15-16 seconds per mile across reps (6:06 → 6:22 → 6:36). Elevation contributed (230ft total), but fade pattern suggests carrying fatigue from 8x1k session 2 days prior.
+- **Notes:** Threshold work should feel comfortably hard with sustainable, even splits. The drop-off indicates working on tired legs. Done only 2 days after hard interval session.
 
-### Session 3: 10-Mile Long Run (Jan 23)
-- **Status:** Completed with smart modification
-- **Prescribed:** 10 miles @ E pace (7:35-8:13)
-- **Actual:** 10 miles @ 7:48/mile average, attempted HM pace work but bailed due to wind
-- **Pacing:** Excellent - most miles 7:36-8:18 (within easy zone). Laps 8-9 briefly at 6:38, 6:59 before stopping HM pace attempt.
-- **Heart Rate:** 122-136 bpm for easy miles (appropriate), 142 bpm when pushing harder
-- **Notes:** Perfect execution. Smart decision to abandon quality work in windy conditions. This is exactly what long runs should feel like.
+### Session 3: 10 Mile Long Run (January 23)
+- **Status:** Modified - planned 3 miles at HM pace, abandoned due to wind
+- **Distance:** 10.01 miles
+- **Average Pace:** 7:48 /mile (Easy pace range: 7:35-8:13)
+- **Heart Rate:** 131 avg, 152 max
+- **Pacing Analysis:** Highly variable due to wind - tailwind early miles (7:36-7:37), slower middle section (8:06-8:18), attempted HM pace miles 8-9 (6:38, 6:59) into headwind, then recovery (8:37).
+- **Notes:** Smart decision to abandon HM pace work due to strong wind. HR averaging 131 is good for easy running. Overall pace at faster end of easy range. Conditions made consistent pacing impossible - appropriate to adapt.
 
-### Missing: Easy 8-Mile Run
-- **Status:** Not completed
-- **Prescribed:** Day 2 - Easy 8 miles @ E pace + 6 strides
-- **Actual:** Several short runs (1.67 mi, 0.43 mi, 0.66 mi) but no continuous easy 8 miles
-- **Notes:** This is the main gap in the week. Foundation miles matter.
+### Additional Runs
+- **January 19:** 0.66 mi @ 7:55 pace, 0.43 mi @ 9:14 pace
+- **January 20:** 1.67 mi @ 9:35 pace
+- **Notes:** Warm-ups and cool-downs logged separately
 
-## Cross-Training Notes
-- 4 bike rides totaling 43 miles (HR 128-133 bpm avg) - moderate intensity
-- 6 walks totaling 19 miles (HR 67-107 bpm) - excellent active recovery
-- 1 strength/workout session (12 minutes)
-- Total training load is high - monitor for cumulative fatigue
+## Cross-Training Summary
+- **Cycling:** 43 miles across 4 rides (commuting to work)
+- **Role:** Aerobic conditioning without impact stress - smart complementary training
+- **Walking:** 18.7 miles (likely daily life/recovery)
+- **Balance:** Good - cross-training supports running without replacing it
 
 ## Progress Assessment
-**Status:** ON TRACK ✓
+**Ahead of Target - But With Concerns**
 
-**Positive Indicators:**
-- Executing quality sessions well
-- 8x1k intervals showed strong fitness and consistency
-- Long run pacing was disciplined and appropriate
-- Smart adjustments for conditions (wind)
-- Heart rate patterns healthy, no overtraining signs
-- Strong motivation and confidence
-- Recovery feels normal
+The athlete is clearly fit and capable of executing quality work. Both interval and threshold sessions showed strong fitness:
+- 8x1k intervals: textbook consistency and pacing
+- Threshold work: hit target pace on first mile
+- Long run: appropriate easy HR despite variable conditions
 
-**Areas for Improvement:**
-- Threshold workout execution - need better pacing discipline
-- Swapped Week 1/Week 2 workouts - respect plan progression
-- Missing easy 8-miler reduces volume slightly
-- Cross-training volume is high - ensure it supports rather than compromises running
+However, Week 1 included 150% of prescribed quality work:
+1. Completed 8x1k interval session (not scheduled until Week 2+)
+2. Also completed 3x1 mile threshold (actual Week 1 workout)
 
-**Overall:** Athlete is fit, motivated, and executing well. The fitness is clearly there - handled 8 intervals strongly. Main focus should be on pacing discipline, following plan sequence, and not skipping foundation miles.
+This doubled the hard running load for the opening week.
+
+**Red Flags:**
+- Feeling "okay, not too tired, but not full of energy" in Week 1 - should feel more peppy
+- Threshold fade pattern (6:06 → 6:36) suggests cumulative fatigue
+- Adding extra quality sessions this early risks burnout in Weeks 6-10
+
+The athlete is clearly motivated and wants to prove fitness, which is excellent. But this is a 12-week build - success requires pacing the training stimulus, not front-loading it.
 
 ## Recommendations
 
-1. **Respect Plan Progression**
-   - Stick to prescribed workouts week-by-week
-   - Plan is sequenced intentionally: threshold first, then intervals
-   - Jumping ahead may compromise adaptation
+### Immediate
+1. **Celebrate the wins:** Both quality sessions showed strong execution and fitness
+2. **Acknowledge the enthusiasm:** The desire to test yourself is great, but needs channeling appropriately
 
-2. **Nail Threshold Pacing**
-   - Start conservatively (6:12-6:15, not 6:06)
-   - Focus on even pacing or negative splitting
-   - Should be "comfortably hard" and sustainable
-   - If fading >10 seconds per rep, started too fast
+### Going Forward
+1. **Stick to ONE quality session per week** - the plan prescribes one hard workout per week for a reason. With 4 rest days available, use them for cycling, strength work, or actual rest - not bonus running workouts.
 
-3. **Complete Foundation Miles**
-   - Week 2 calls for easy 9 miles - don't skip it
-   - Easy runs build aerobic base for half marathon
-   - Target 7:35-8:13/mile, truly conversational
-   - Add 6 strides at the end
+2. **Trust the plan's progression** - Week 1 starts conservative deliberately. The intensity and volume build significantly:
+   - Week 2: 6x1k intervals
+   - Week 3: 4x1 mile threshold
+   - Week 7: 16.5 mile long run + 3x2mi @ HM pace
+   - Week 10: 19 miles with 10 miles steady pace
 
-4. **Manage Cross-Training Load**
-   - Current volume is high but sustainable if feeling fresh
-   - Ensure cycling is easy/moderate, not hard efforts
-   - If legs feel tired before key workouts, reduce cross-training intensity
+3. **Respect easy pace (7:35-8:13)** - Long run averaged 7:48, which is faster end of easy. Truly easy running should allow comfortable conversation. Save speed for prescribed workouts.
 
-5. **Week 2 Adjustment**
-   - **Recommended:** Do Week 1's threshold workout (3 x 1 mile @ T pace) with better execution
-   - Alternative: Proceed with Week 2 but modify the interval day since already completed
-   - Complete easy 9 miles + strides
-   - Long run 11.5 miles easy
+4. **Monitor energy levels** - Currently feeling "okay" is acceptable but not ideal. Should feel eager and energetic this early. If Week 2 brings genuine fatigue, consider backing off.
 
-## Focus for Next Week
+5. **Make smart adaptations** - Decision to abandon HM pace work due to wind was correct. Continue showing this judgment.
 
-- **Pace discipline on threshold work** - start conservative, finish strong
-- **Complete the easy 9-miler** - no skipping foundation miles
-- **Trust the plan sequence** - resist urge to jump ahead
-- **Continue smart adjustments** - weather, conditions, how you feel
-- **Keep executing intervals well** - consistency was excellent
+### Plan Adjustments
+**No changes to plan.** Continue with prescribed Week 2 schedule:
+- 6x1km @ interval pace (5:41-5:55)
+- 9 miles easy + strides
+- 11.5 mile long run
+- **Total: 28 miles**
 
-## Coach's Notes
+Do JUST this - no extra intervals, no bonus threshold work. Execute the prescribed workouts well with proper easy running.
 
-Strong start to the training block. Athlete has the fitness and motivation to hit the 1:23:00 half marathon goal. Main coaching points:
+## Focus for Week 2
+**ONE THING:** Stick to the plan as written. No extra quality work.
 
-1. Channel eagerness productively - follow the plan rather than jumping ahead
-2. Threshold pacing needs work - this is crucial for race-specific fitness
-3. Foundation miles matter - don't let cross-training replace continuous easy running
-4. Smart decision-making on display (bailing on HM pace in wind) - keep that up
+Execute the 6x1k workout well, cruise genuinely easy on the 9-miler and long run, and finish the week feeling strong and eager for Week 3.
 
-Confidence level in goal: High. Fitness is there, just needs to refine execution and trust the progressive build.
+You're fit. You're motivated. Now let's channel that into 12 weeks of smart, progressive training that gets you to the start line ready to crush that 1:23 goal - not limping there because you cooked yourself in January.
+
+See you next week!
