@@ -48,7 +48,7 @@ Use these paces for workouts throughout the plan:
 
 ## Week-by-Week Training Schedule
 
-### Week 1: Foundation with Quality
+### Week 1 (Starting January 19, 2025): Foundation with Quality
 **Total Volume**: 24.5 miles
 **Focus**: Establish routine with immediate quality work
 
@@ -60,7 +60,7 @@ Use these paces for workouts throughout the plan:
 
 ---
 
-### Week 2: Foundation with Quality
+### Week 2 (Starting January 26, 2025): Foundation with Quality
 **Total Volume**: 28 miles
 **Focus**: Introduce VO₂max work, continue building volume
 
@@ -72,7 +72,7 @@ Use these paces for workouts throughout the plan:
 
 ---
 
-### Week 3: Foundation with Quality
+### Week 3 (Starting February 2, 2025): Foundation with Quality
 **Total Volume**: 30 miles
 **Focus**: Build threshold endurance, grow long run
 
@@ -84,7 +84,7 @@ Use these paces for workouts throughout the plan:
 
 ---
 
-### Week 4: Recovery Week
+### Week 4 (Starting February 9, 2025): Recovery Week
 **Total Volume**: 24 miles
 **Focus**: Absorb training, reduce fatigue, prepare for build phase
 
@@ -96,7 +96,7 @@ Use these paces for workouts throughout the plan:
 
 ---
 
-### Week 5: Build Phase
+### Week 5 (Starting February 16, 2025): Build Phase
 **Total Volume**: 32 miles
 **Focus**: Return to volume with VO₂max emphasis
 
@@ -108,7 +108,7 @@ Use these paces for workouts throughout the plan:
 
 ---
 
-### Week 6: Build Phase
+### Week 6 (Starting February 23, 2025): Build Phase
 **Total Volume**: 35 miles
 **Focus**: Longer threshold blocks, introduce quality into long run
 
@@ -120,7 +120,7 @@ Use these paces for workouts throughout the plan:
 
 ---
 
-### Week 7: Build Phase
+### Week 7 (Starting March 2, 2025): Build Phase
 **Total Volume**: 38 miles
 **Focus**: First major HM pace work, peak long run volume
 
@@ -132,7 +132,7 @@ Use these paces for workouts throughout the plan:
 
 ---
 
-### Week 8: Recovery Week
+### Week 8 (Starting March 9, 2025): Recovery Week
 **Total Volume**: 28 miles
 **Focus**: Recover from 3-week build, prepare for specific phase
 
@@ -144,7 +144,7 @@ Use these paces for workouts throughout the plan:
 
 ---
 
-### Week 9: Specific Phase
+### Week 9 (Starting March 16, 2025): Specific Phase
 **Total Volume**: 40 miles
 **Focus**: HM pace durability, structured long run quality
 
@@ -156,7 +156,7 @@ Use these paces for workouts throughout the plan:
 
 ---
 
-### Week 10: Specific Phase - Peak Week
+### Week 10 (Starting March 23, 2025): Specific Phase - Peak Week
 **Total Volume**: 42 miles
 **Focus**: Maximum race-specific preparation, longest long run
 
@@ -168,7 +168,7 @@ Use these paces for workouts throughout the plan:
 
 ---
 
-### Week 11: Specific Phase
+### Week 11 (Starting March 30, 2025): Specific Phase
 **Total Volume**: 38 miles
 **Focus**: Final race-specific sharpening, begin volume reduction
 
@@ -180,7 +180,7 @@ Use these paces for workouts throughout the plan:
 
 ---
 
-### Week 12: Taper
+### Week 12 (Starting April 6, 2025): Taper
 **Total Volume**: ~25 miles (including race)
 **Focus**: Freshen up, maintain sharpness, arrive ready
 
