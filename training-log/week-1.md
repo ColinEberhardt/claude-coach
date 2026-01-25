@@ -1,12 +1,12 @@
-# Training Log: January 17 to January 23, 2026
+# Training Log: January 19 to January 25, 2026
 
 ## Week Summary
 
 ### Overall Totals
-- **Total Activities**: 17
-- **Total Distance**: 84.12 miles (135.38 km)
-- **Total Time**: 13:05:33
-- **Total Elevation**: 3,205 ft (977 m)
+- **Total Activities**: 18
+- **Total Distance**: 79.85 miles (128.51 km)
+- **Total Time**: 11:21:40
+- **Total Elevation**: 3,464 ft (1,056 m)
 
 ### By Activity Type
 
@@ -23,10 +23,10 @@
 - **Elevation**: 1,490 ft (454 m)
 
 #### Walk
-- **Activities**: 6
-- **Distance**: 18.68 miles (30.05 km)
-- **Time**: 06:36:47
-- **Elevation**: 771 ft (235 m)
+- **Activities**: 7
+- **Distance**: 14.41 miles (23.19 km)
+- **Time**: 04:52:54
+- **Elevation**: 1,030 ft (314 m)
 
 #### Workout
 - **Activities**: 1
@@ -37,6 +37,58 @@
 ---
 
 ## Activities
+
+### January 25 - Afternoon Walk
+
+**Type**: Walk
+**Distance**: 1.79 mi (2.88 km)
+**Duration**: 00:37:42
+**Pace**: 21:04 /mi
+**Elevation**: 141 ft (43 m)
+**Heart Rate**: 74 bpm (avg), 95 bpm (max)
+**Cadence**: 56 rpm
+**Calories**: 143
+
+---
+
+### January 25 - Morning Walk
+
+**Type**: Walk
+**Distance**: 2.47 mi (3.97 km)
+**Duration**: 00:54:07
+**Pace**: 21:55 /mi
+**Elevation**: 230 ft (70 m)
+**Heart Rate**: 75 bpm (avg), 107 bpm (max)
+**Cadence**: 55 rpm
+**Calories**: 200
+
+---
+
+### January 24 - Afternoon Walk
+
+**Type**: Walk
+**Distance**: 1.91 mi (3.07 km)
+**Duration**: 00:38:23
+**Pace**: 20:06 /mi
+**Elevation**: 272 ft (83 m)
+**Heart Rate**: 85 bpm (avg), 111 bpm (max)
+**Cadence**: 57 rpm
+**Calories**: 163
+
+---
+
+### January 24 - Morning Walk
+
+**Type**: Walk
+**Distance**: 3.04 mi (4.90 km)
+**Duration**: 00:58:22
+**Pace**: 19:12 /mi
+**Elevation**: 128 ft (39 m)
+**Heart Rate**: 80 bpm (avg), 121 bpm (max)
+**Cadence**: 56 rpm
+**Calories**: 248
+
+---
 
 ### January 23 - 10 miles, 3 at HM pace
 
@@ -234,7 +286,7 @@
 **Cadence**: 83 rpm
 **Calories**: 489
 
-**Description**: Happy with that
+**Description**: Happy with that 🙂
 
 **Gear**: ASICS Pure Gel 27
 
@@ -289,41 +341,3 @@
 
 **Gear**: Calibre Stitch
 
----
-
-### January 18 - Morning Walk
-
-**Type**: Walk
-**Distance**: 7.25 mi (11.66 km)
-**Duration**: 02:44:27
-**Pace**: 22:43 /mi
-**Elevation**: 292 ft (89 m)
-**Heart Rate**: 71 bpm (avg), 102 bpm (max)
-**Cadence**: 55 rpm
-**Calories**: 576
-
----
-
-### January 17 - Afternoon Walk
-
-**Type**: Walk
-**Distance**: 2.27 mi (3.65 km)
-**Duration**: 00:54:11
-**Pace**: 23:54 /mi
-**Elevation**: 56 ft (17 m)
-**Heart Rate**: 67 bpm (avg), 87 bpm (max)
-**Cadence**: 54 rpm
-**Calories**: 178
-
----
-
-### January 17 - Morning Walk
-
-**Type**: Walk
-**Distance**: 3.97 mi (6.38 km)
-**Duration**: 01:13:49
-**Pace**: 18:36 /mi
-**Elevation**: 164 ft (50 m)
-**Heart Rate**: 81 bpm (avg), 106 bpm (max)
-**Cadence**: 57 rpm
-**Calories**: 320
