@@ -120,15 +120,17 @@ Use these paces for workouts throughout the plan:
 
 ---
 
-### Week 7 (Starting March 2, 2025): Build Phase
-**Total Volume**: 38 miles
-**Focus**: First major HM pace work, peak long run volume
+### Week 7 (Starting March 2, 2025): Build Phase - 12K Trail Race Week
+**Total Volume**: ~32-35 miles
+**Focus**: 12K trail race on March 8 (race effort, not a taper)
 
-- **Day 1 (Tue/Wed)**: HM Pace - 1.5 mile easy warm-up, 3 x 2 miles @ HM pace (6:19), 0.5 mile jog recovery, 1 mile easy cool-down (Total: 9.5 miles)
-- **Day 2 (Thu/Fri)**: Easy 12 miles @ E pace + 6 strides
-- **Day 3 (Sat/Sun)**: Long Run - 16.5 miles easy @ E pace
+- **Day 1 (Sun/Mon, March 2/3)**: Easy 8-9 miles @ E pace + 6 strides
+- **Day 2 (Tue/Wed, March 4/5)**: Threshold - 1.5 mile easy warm-up, 2 x 2 miles @ T pace (6:04-6:19), 0.5 mile jog recovery, 1 mile easy cool-down (Total: 7.5 miles)
+- **Day 3 (Thu, March 6)**: Easy 5-6 miles @ E pace (conversational, keep legs fresh)
+- **Day 4 (Fri, March 7)**: Shakeout - 4 miles very easy + 4-6 short strides (pre-race prep)
+- **Day 5 (Sat, March 8)**: **12K TRAIL RACE** - 1.5-2 mile easy warm-up, RACE EFFORT, 1.5-2 mile easy cool-down (Total: ~11-12 miles with race)
 
-**Notes**: This is your longest training week by volume. HM pace should feel sustainable - you should be able to hold a brief conversation.
+**Notes**: Modified week to accommodate proper racing effort. Reduced Tuesday workout to 2x2 (from 3x2) to arrive fresh. Trail racing provides excellent neuromuscular stimulus and economy work. Race the 12K hard - the varied terrain and effort will be great training. Week 8 recovery week follows perfectly.
 
 ---
 
