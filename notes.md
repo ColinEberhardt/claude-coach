@@ -48,3 +48,12 @@ Given that this is a deterministic transform—download Strava data and format i
 ## Coach Skill
 
 This was surprisingly easy.
+
+
+## General thoughts
+
+ - how do I know how much detail to add?
+ - this is very different from standard software engineering, shaping, removing
+ - for humans, how do you know how much detail to add? (and will they read it)
+  - how do I evaluate skills written by others? GitHub stars and vibes?
+  - Do we need a LinedkIn for agents?!

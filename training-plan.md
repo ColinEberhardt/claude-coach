@@ -73,14 +73,16 @@ Use these paces for workouts throughout the plan:
 ---
 
 ### Week 3 (Starting February 2, 2025): Foundation with Quality
-**Total Volume**: 30 miles
-**Focus**: Build threshold endurance, grow long run
+**Total Volume**: 33.5-34.5 miles
+**Focus**: Build threshold endurance, aerobic volume, race stimulus
 
-- **Day 1 (Tue/Wed)**: Threshold - 1.5 mile easy warm-up, 4 x 1 mile @ T pace (6:04-6:19), 0.25 mile jog recovery, 1 mile easy cool-down (Total: 7.5 miles)
-- **Day 2 (Thu/Fri)**: Easy 10 miles @ E pace + 6 strides
-- **Day 3 (Sat/Sun)**: Long Run - 12.5 miles easy @ E pace
+- **Day 1 (Mon, Feb 3)**: Threshold - 1.5 mile easy warm-up, 4 x 1 mile @ T pace (6:04-6:19), 0.25 mile jog recovery, 1 mile easy cool-down (Total: 7.5 miles)
+- **Day 2 (Tue, Feb 4)**: Easy 12 miles @ recovery pace (~9:00/mile) - keep this VERY easy, slower than normal easy pace
+- **Day 3 (Wed, Feb 5)**: Easy 8 miles @ recovery pace (~9:00/mile) - again, keep this genuinely easy
+- **Day 4 (Thu/Fri, Feb 6-7)**: Rest days - stay off your feet before parkrun
+- **Day 5 (Sat, Feb 8)**: York Parkrun - 1.5 mile easy warm-up, race 5K hard, 1.5 mile easy cool-down (Total: 6.5-7 miles)
 
-**Notes**: Peak week of foundation phase. You should be feeling the workload but still recovering well.
+**Notes**: Modified week to accommodate York parkrun opportunity. Tuesday and Wednesday runs are deliberately slower than normal easy pace (9:00/mile vs 7:35-8:13) to bank aerobic volume without creating fatigue. This gives you five days between hard efforts (Monday threshold to Saturday parkrun). The parkrun replaces the long run - you're trading easy aerobic volume for race-specific stimulus. Stick to the recovery pace discipline on Tue/Wed or you'll compromise Saturday's performance.
 
 ---
 
