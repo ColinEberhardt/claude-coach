@@ -88,13 +88,13 @@ Use these paces for workouts throughout the plan:
 
 ### Week 4 (Starting February 9, 2026): Modified Build Week
 **Total Volume**: 28.5 miles
-**Focus**: Continue building volume and threshold endurance
+**Focus**: VO2max development and volume building
 
-- **Day 1 (Tue/Wed)**: Tempo - 1.5 mile easy warm-up, 5 miles @ T pace (6:04-6:19), 1 mile easy cool-down (Total: 7.5 miles)
+- **Day 1 (Tue/Wed)**: Intervals - 1.5 mile easy warm-up, 4 x 1 mile @ I pace (5:41-5:55), 0.25 mile jog recovery, 1 mile easy cool-down (Total: 7.5 miles)
 - **Day 2 (Thu/Fri)**: Easy 9 miles @ E pace + 6 strides
 - **Day 3 (Sat/Sun)**: Long Run - 12 miles easy @ E pace
 
-**Notes**: Modified from original recovery week plan. Week 3 parkrun was missed, resulting in 4 days rest and full recovery. Athlete feeling strong and ready for increased volume. The 5-mile tempo block builds threshold durability. Keep easy runs genuinely easy to absorb the increased volume.
+**Notes**: Modified from original recovery week plan. Week 3 parkrun was missed, resulting in 4 days rest and full recovery. Athlete feeling strong and ready for increased volume AND intensity. VO2max intervals chosen over tempo work to provide speed stimulus. Start conservatively (aim for 5:50 first rep) and assess. Keep easy runs genuinely easy - the interval work is demanding.
 
 ---
 
