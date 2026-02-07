@@ -86,15 +86,15 @@ Use these paces for workouts throughout the plan:
 
 ---
 
-### Week 4 (Starting February 9, 2025): Recovery Week
-**Total Volume**: 24 miles
-**Focus**: Absorb training, reduce fatigue, prepare for build phase
+### Week 4 (Starting February 9, 2026): Modified Build Week
+**Total Volume**: 28.5 miles
+**Focus**: Continue building volume and threshold endurance
 
-- **Day 1 (Tue/Wed)**: Tempo - 1.5 mile easy warm-up, 4 miles @ T pace (6:04-6:19), 1 mile easy cool-down (Total: 6.5 miles)
-- **Day 2 (Thu/Fri)**: Easy 7.5 miles @ E pace + 6 strides
-- **Day 3 (Sat/Sun)**: Long Run - 10 miles easy @ E pace
+- **Day 1 (Tue/Wed)**: Tempo - 1.5 mile easy warm-up, 5 miles @ T pace (6:04-6:19), 1 mile easy cool-down (Total: 7.5 miles)
+- **Day 2 (Thu/Fri)**: Easy 9 miles @ E pace + 6 strides
+- **Day 3 (Sat/Sun)**: Long Run - 12 miles easy @ E pace
 
-**Notes**: This is a planned recovery week. Resist the urge to push. You should finish the week feeling refreshed and eager.
+**Notes**: Modified from original recovery week plan. Week 3 parkrun was missed, resulting in 4 days rest and full recovery. Athlete feeling strong and ready for increased volume. The 5-mile tempo block builds threshold durability. Keep easy runs genuinely easy to absorb the increased volume.
 
 ---
 
