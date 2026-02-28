@@ -16,306 +16,312 @@
             border: 2px solid #33ff33;
             box-shadow: 0 0 10px rgba(51, 255, 51, 0.3);
         }
-        .accent { color: #66ff66; font-weight: bold; }
+        .accent { color: #66ff66; }
         .warning { color: #ffff33; }
         .success { color: #33ff33; }
-        .muted { color: #1a7a1a; }
-        .bright { color: #99ff99; }
-        pre {
-            font-family: 'Courier New', monospace;
-            white-space: pre;
-            overflow-x: auto;
-        }
-        .glow {
-            text-shadow: 0 0 10px rgba(51, 255, 51, 0.5);
-        }
-        h1, h2 {
-            text-shadow: 0 0 8px rgba(51, 255, 51, 0.4);
-        }
+        .muted { color: #5aaa5a; }
+        .danger { color: #ff3333; }
+        pre { font-family: 'Courier New', monospace; }
+        .glow { text-shadow: 0 0 8px rgba(51, 255, 51, 0.6); }
     </style>
 </head>
 <body class="p-8 min-h-screen">
     <div class="max-w-6xl mx-auto">
-        <!-- Header -->
         <header class="card p-6 rounded-lg mb-6">
-            <h1 class="text-4xl font-bold mb-2 glow">═══════════════════════════════════════════════════════</h1>
-            <h1 class="text-4xl font-bold mb-2 text-center glow">HALF MARATHON TRAINING DASHBOARD</h1>
-            <h1 class="text-4xl font-bold mb-4 glow">═══════════════════════════════════════════════════════</h1>
-            <div class="grid grid-cols-2 gap-4 text-xl mt-6">
-                <div><span class="muted">Target Time:</span> <span class="accent">1:23:00</span></div>
-                <div><span class="muted">Target Pace:</span> <span class="accent">6:19/mile</span></div>
-                <div><span class="muted">Current Week:</span> <span class="bright">4 of 12</span></div>
-                <div><span class="muted">Current Phase:</span> <span class="bright">Build</span></div>
-            </div>
+            <h1 class="text-4xl font-bold mb-2 glow">═══ HALF MARATHON TRAINING DASHBOARD ═══</h1>
+            <p class="text-xl mt-4 accent">Target: 1:23:00 (6:19/mile) | 13.1 miles</p>
+            <p class="text-lg muted mt-2">Week 6 of 12 • Build Phase</p>
         </header>
 
         <div class="space-y-6">
             <!-- Plan Overview -->
             <div class="card p-6 rounded-lg">
-                <h2 class="text-2xl font-bold mb-4 border-b-2 border-current pb-2">📋 PLAN OVERVIEW</h2>
-                <div class="grid grid-cols-3 gap-6 text-lg">
-                    <div>
-                        <p class="muted text-sm mb-1">GOAL DISTANCE</p>
-                        <p class="accent text-2xl">13.1 miles</p>
-                    </div>
-                    <div>
-                        <p class="muted text-sm mb-1">TRAINING DURATION</p>
-                        <p class="accent text-2xl">12 weeks</p>
-                    </div>
-                    <div>
-                        <p class="muted text-sm mb-1">WEEKS REMAINING</p>
-                        <p class="accent text-2xl">8 weeks</p>
-                    </div>
-                    <div>
-                        <p class="muted text-sm mb-1">TRAINING DAYS/WEEK</p>
-                        <p class="accent text-2xl">3 days</p>
-                    </div>
-                    <div>
-                        <p class="muted text-sm mb-1">CURRENT PHASE</p>
-                        <p class="bright text-2xl">Build</p>
-                    </div>
-                    <div>
-                        <p class="muted text-sm mb-1">PHASE FOCUS</p>
-                        <p class="success text-xl">VO₂max + Volume</p>
-                    </div>
+                <h2 class="text-2xl font-bold mb-4 border-b border-current pb-2">▓▓▓ PLAN OVERVIEW ▓▓▓</h2>
+                <div class="grid grid-cols-2 gap-4 text-lg">
+                    <div><span class="muted">Goal Distance:</span> <span class="accent">13.1 miles</span></div>
+                    <div><span class="muted">Target Time:</span> <span class="accent">1:23:00</span></div>
+                    <div><span class="muted">Target Pace:</span> <span class="accent">6:19/mile</span></div>
+                    <div><span class="muted">Weeks Completed:</span> <span class="accent">6 of 12</span></div>
+                    <div><span class="muted">Weeks Remaining:</span> <span class="accent">6 weeks</span></div>
+                    <div><span class="muted">Training Days:</span> <span class="accent">3 per week</span></div>
                 </div>
             </div>
 
             <!-- Phase Progress -->
             <div class="card p-6 rounded-lg">
-                <h2 class="text-2xl font-bold mb-4 border-b-2 border-current pb-2">📊 PHASE PROGRESS</h2>
-                <pre class="text-lg mb-4">
-Foundation (Weeks 1-3)   [███████████████████░] 100% <span class="success">✓ COMPLETE</span>
-Build (Weeks 4-7)        [█████░░░░░░░░░░░░░░░]  25% <span class="bright">→ IN PROGRESS</span>
-Specific (Weeks 9-11)    [░░░░░░░░░░░░░░░░░░░░]   0%
-Taper (Week 12)          [░░░░░░░░░░░░░░░░░░░░]   0%
+                <h2 class="text-2xl font-bold mb-4 border-b border-current pb-2">▓▓▓ PHASE PROGRESS ▓▓▓</h2>
+                <pre class="text-sm mb-4">
+Foundation (Weeks 1-3)   [████████████████████] 100% COMPLETE ✓
+Build (Weeks 4-7)        [███████████████░░░░░]  75% IN PROGRESS →
+Specific (Weeks 9-11)    [░░░░░░░░░░░░░░░░░░░░]   0% UPCOMING
+Taper (Week 12)          [░░░░░░░░░░░░░░░░░░░░]   0% UPCOMING
                 </pre>
-                <div class="mt-4 p-4 bg-black bg-opacity-40 rounded">
-                    <p class="text-lg"><span class="muted">Current Phase:</span> <span class="bright">Build Phase (Week 1 of 4)</span></p>
-                    <p class="muted text-sm mt-2">Focus: Expand aerobic capacity, introduce race-specific pacing</p>
-                    <p class="muted text-sm">Target Volume: 32-38 miles per week</p>
-                </div>
+                <p class="mt-4"><span class="muted">Current Phase:</span> <span class="accent font-bold">BUILD (Week 3 of 4)</span></p>
+                <p class="muted text-sm mt-2">Focus: VO₂max development, increased volume, race-specific work</p>
+                <p class="muted text-sm">Volume target: 32-38 miles/week</p>
             </div>
 
             <!-- On Track Status -->
             <div class="card p-6 rounded-lg border-4">
-                <h2 class="text-2xl font-bold mb-4 border-b-2 border-current pb-2">STATUS: <span class="success glow">✓ ON TRACK</span></h2>
+                <h2 class="text-2xl font-bold mb-4 border-b border-current pb-2">STATUS: <span class="success glow">→ ON TRACK ✓</span></h2>
                 <div class="space-y-4">
                     <div>
-                        <div class="flex justify-between mb-2 text-lg">
-                            <span>Overall Volume Completion</span>
-                            <span class="accent">94.1%</span>
+                        <div class="flex justify-between mb-1">
+                            <span>Overall Progress (6 of 12 weeks)</span>
+                            <span class="accent">50%</span>
                         </div>
-                        <pre class="text-sm success">[██████████████████░░] 94%</pre>
+                        <pre class="text-sm">[██████████░░░░░░░░░░] 50%</pre>
                     </div>
-                    <div class="grid grid-cols-2 gap-4 text-xl mt-6">
-                        <div class="p-3 bg-black bg-opacity-40 rounded">
-                            <p class="muted text-sm">TOTAL RUNNING MILES</p>
-                            <p class="accent text-2xl">76.2 / 81.0 mi</p>
-                            <p class="muted text-xs mt-1">(completed weeks 1,2,4)</p>
-                        </div>
-                        <div class="p-3 bg-black bg-opacity-40 rounded">
-                            <p class="muted text-sm">SESSION COMPLETION</p>
-                            <p class="accent text-2xl">11 / 14</p>
-                            <p class="muted text-xs mt-1">(79% completion rate)</p>
-                        </div>
-                        <div class="p-3 bg-black bg-opacity-40 rounded">
-                            <p class="muted text-sm">AVG WEEKLY MILEAGE</p>
-                            <p class="bright text-2xl">25.4 miles</p>
-                        </div>
-                        <div class="p-3 bg-black bg-opacity-40 rounded">
-                            <p class="muted text-sm">HIGHEST WEEK</p>
-                            <p class="bright text-2xl">27.3 miles</p>
-                            <p class="muted text-xs mt-1">(Week 4)</p>
-                        </div>
+                    <div class="grid grid-cols-2 gap-4 text-lg mt-4">
+                        <div><span class="muted">Total Run Miles:</span> <span class="accent">143.0 / 182 mi</span> <span class="muted">(79%)</span></div>
+                        <div><span class="muted">Avg Weekly:</span> <span class="accent">23.8 mi/week</span></div>
+                        <div><span class="muted">Key Workouts:</span> <span class="accent">14 / 18</span> <span class="muted">(78%)</span></div>
+                        <div><span class="muted">Assessment:</span> <span class="success">Strong ✓</span></div>
                     </div>
                 </div>
             </div>
 
             <!-- Weekly Mileage -->
             <div class="card p-6 rounded-lg">
-                <h2 class="text-2xl font-bold mb-4 border-b-2 border-current pb-2">📈 WEEKLY MILEAGE BREAKDOWN</h2>
-                <pre class="text-base leading-relaxed">
-Week 1  [██████████████████░░] 22.4 / 24.5 mi  (91%) <span class="success">✓</span>
+                <h2 class="text-2xl font-bold mb-4 border-b border-current pb-2">▓▓▓ WEEKLY MILEAGE ▓▓▓</h2>
+                <pre class="text-sm">
+Week 1  [████████████████████] 22.4 / 24.5 mi  (91%) <span class="success">✓</span>
 Week 2  [███████████████████░] 26.6 / 28.0 mi  (95%) <span class="success">✓</span>
-Week 3  [███████████░░░░░░░░░] 18.7 / 33.5 mi  (56%) <span class="warning">○ York 5K missed</span>
-Week 4  [███████████████████░] 27.3 / 28.5 mi  (96%) <span class="success">✓</span>
-Week 5  [░░░░░░░░░░░░░░░░░░░░]  0.0 / 32.0 mi   (0%) <span class="bright">→ Current</span>
-Week 6  [░░░░░░░░░░░░░░░░░░░░]  0.0 / 35.0 mi   (0%)
-Week 7  [░░░░░░░░░░░░░░░░░░░░]  0.0 / 32.0 mi   (0%)
-Week 8  [░░░░░░░░░░░░░░░░░░░░]  0.0 / 28.0 mi   (0%)
+Week 3  [███████████░░░░░░░░░] 18.7 / 34.0 mi  (55%) <span class="warning">⚠</span> Parkrun missed
+Week 4  [████████████████████] 27.3 / 28.5 mi  (96%) <span class="success">✓</span>
+Week 5  [████████████████░░░░] 26.8 / 32.0 mi  (84%) <span class="warning">⚠</span>
+Week 6  [████████████░░░░░░░░] 21.2 / 35.0 mi  (61%) <span class="warning">⚠</span> Illness week
+Week 7  [░░░░░░░░░░░░░░░░░░░░]  0.0 / 35.0 mi   (0%) <span class="accent">→ CURRENT</span>
                 </pre>
-                <div class="mt-6 p-4 bg-black bg-opacity-40 rounded">
-                    <p class="text-lg mb-2"><span class="muted">Trend:</span> <span class="success">Building steadily ↗</span></p>
-                    <p class="muted text-sm">Week 3 volume affected by York 5K race cancellation. Week 4 shows strong recovery with highest mileage yet.</p>
+                <div class="grid grid-cols-3 gap-4 text-lg mt-4">
+                    <div><span class="muted">Total Miles:</span> <span class="accent">143.0 mi</span></div>
+                    <div><span class="muted">Weekly Avg:</span> <span class="accent">23.8 mi/wk</span></div>
+                    <div><span class="muted">Highest Week:</span> <span class="accent">27.3 mi (Wk 4)</span></div>
                 </div>
             </div>
 
             <!-- Session Completion -->
             <div class="card p-6 rounded-lg">
-                <h2 class="text-2xl font-bold mb-4 border-b-2 border-current pb-2">✅ SESSION COMPLETION TRACKER</h2>
-                <pre class="text-base leading-relaxed">
-<span class="bright">WEEK 1:</span> Foundation Phase
-  [<span class="success">✓</span>] Threshold   → 8x1km intervals @ 5:59 avg
-  [<span class="success">✓</span>] Easy        → 10 miles @ 7:48/mi
-  [<span class="success">✓</span>] Long Run    → Modified (bailed on HM pace due to wind)
-
-<span class="bright">WEEK 2:</span> Foundation Phase
-  [<span class="success">✓</span>] Intervals   → 6x1km @ 5:56 avg (target: 5:41-5:55)
-  [<span class="warning">~</span>] Easy        → 6 miles (short from planned 9)
-  [<span class="success">✓</span>] Long Run    → 13.8 miles @ 8:10/mi
-
-<span class="bright">WEEK 3:</span> Foundation Phase
-  [<span class="success">✓</span>] Threshold   → 4x1 mile @ 6:09 avg (perfect!)
-  [<span class="success">✓</span>] Easy        → 11.4 miles @ 9:08/mi (recovery pace)
-  [<span class="warning">✗</span>] Easy        → 8 miles - MISSED
-  [<span class="warning">✗</span>] York 5K     → Race - MISSED
-  [<span class="warning">✗</span>] Easy        → 12 miles - MISSED
-
-<span class="bright">WEEK 4:</span> Build Phase (VO₂max Focus)
-  [<span class="success">✓</span>] VO₂max      → 4x1 mile @ 5:52 avg <span class="success">← EXCELLENT!</span>
-  [<span class="success">✓</span>] Easy        → 9 miles @ 7:56/mi (perfect pacing)
-  [<span class="success">✓</span>] Long Run    → 12 miles w/ 928ft climb @ 8:40/mi
+                <h2 class="text-2xl font-bold mb-4 border-b border-current pb-2">▓▓▓ SESSION COMPLETION ▓▓▓</h2>
+                <pre class="text-sm">
+Week 1: [<span class="success">✓</span>] Threshold  [<span class="warning">~</span>] Easy (short)  [<span class="success">✓</span>] Long
+Week 2: [<span class="success">✓</span>] Intervals  [<span class="warning">~</span>] Easy (short)  [<span class="success">✓</span>] Long (long!)
+Week 3: [<span class="success">✓</span>] Threshold  [<span class="success">✓</span>] Easy        [<span class="danger">✗</span>] Parkrun (missed)
+Week 4: [<span class="success">✓</span>] Intervals  [<span class="success">✓</span>] Easy        [<span class="success">✓</span>] Long
+Week 5: [<span class="success">✓</span>] Intervals  [<span class="warning">~</span>] Easy (short)  [<span class="warning">~</span>] Long (short)
+Week 6: [<span class="danger">✗</span>] Threshold  [<span class="danger">✗</span>] Easy        [<span class="success">✓</span>] Long + steady
                 </pre>
-                <div class="mt-6 p-4 bg-black bg-opacity-40 rounded">
-                    <p class="text-lg"><span class="muted">Summary:</span> <span class="accent">11 of 14 sessions completed (79%)</span></p>
-                    <p class="muted text-sm mt-2">Week 3 race cancellation resulted in 3 missed sessions. Weeks 1, 2, and 4 show strong execution.</p>
+                <div class="grid grid-cols-2 gap-4 text-lg mt-4">
+                    <div><span class="muted">Sessions Completed:</span> <span class="accent">14 of 18</span> <span class="success">(78%)</span></div>
+                    <div><span class="muted">Quality Sessions:</span> <span class="accent">9 of 12</span> <span class="success">(75%)</span></div>
                 </div>
+                <p class="mt-4 text-sm muted">Legend: <span class="success">✓</span> = Complete | <span class="warning">~</span> = Partial | <span class="danger">✗</span> = Missed</p>
             </div>
 
             <!-- Pace Adherence -->
             <div class="card p-6 rounded-lg">
-                <h2 class="text-2xl font-bold mb-4 border-b-2 border-current pb-2">🎯 PACE ADHERENCE ANALYSIS</h2>
-                <div class="space-y-4">
-                    <div class="p-4 bg-black bg-opacity-40 rounded">
-                        <p class="text-xl mb-2"><span class="muted">Easy Pace (Target: 7:35-8:13/mi):</span></p>
-                        <div class="ml-4 space-y-1 text-base">
-                            <p>Week 1: <span class="success">7:48/mi ✓ GOOD</span> - within range</p>
-                            <p>Week 2: <span class="success">8:36/mi ✓ GOOD</span> (short run), <span class="success">8:10/mi ✓ GOOD</span> (long)</p>
-                            <p>Week 3: <span class="success">9:08/mi ✓ GOOD</span> - recovery pace, perfect!</p>
-                            <p>Week 4: <span class="success">7:56/mi ✓ PERFECT</span> (easy), <span class="success">8:40/mi ✓ GOOD</span> (hilly long run)</p>
+                <h2 class="text-2xl font-bold mb-4 border-b border-current pb-2">▓▓▓ PACE ADHERENCE ▓▓▓</h2>
+                <div class="space-y-3 text-lg">
+                    <div>
+                        <div class="flex justify-between">
+                            <span class="muted">Easy Pace (7:35-8:13):</span>
+                            <span class="success">8:10 avg ✓ GOOD</span>
                         </div>
-                        <p class="mt-3 success text-sm">→ <b>Excellent!</b> Easy pace discipline has been spot-on recently.</p>
+                        <p class="text-sm muted ml-4">Week 4 especially good at 7:56/mi. Keep this up!</p>
                     </div>
+                    <div>
+                        <div class="flex justify-between">
+                            <span class="muted">Threshold (6:04-6:19):</span>
+                            <span class="success">6:09 avg ✓ EXCELLENT</span>
+                        </div>
+                        <p class="text-sm muted ml-4">Nailing the threshold work consistently</p>
+                    </div>
+                    <div>
+                        <div class="flex justify-between">
+                            <span class="muted">Interval/VO₂max (5:41-5:55):</span>
+                            <span class="success">5:52 avg ✓ STRONG</span>
+                        </div>
+                        <p class="text-sm muted ml-4">Hitting 5:50s for mile repeats - solid speed</p>
+                    </div>
+                    <div>
+                        <div class="flex justify-between">
+                            <span class="muted">Steady Pace (6:57-7:16):</span>
+                            <span class="success">7:05 avg ✓ GOOD</span>
+                        </div>
+                        <p class="text-sm muted ml-4">Week 6 steady finish: 7:12, 6:57 - perfect!</p>
+                    </div>
+                    <div>
+                        <div class="flex justify-between">
+                            <span class="muted">HM Goal Pace (6:19):</span>
+                            <span class="muted">No data yet</span>
+                        </div>
+                        <p class="text-sm muted ml-4">HM pace work starts Week 9 (Specific Phase)</p>
+                    </div>
+                </div>
+                <div class="mt-6 p-4 bg-black bg-opacity-30 rounded">
+                    <p class="success text-sm font-bold">✓ PRIMARY STRENGTH: Quality work execution</p>
+                    <p class="text-sm muted mt-1">You're consistently hitting your interval and threshold paces. That's where fitness is built!</p>
+                </div>
+            </div>
 
-                    <div class="p-4 bg-black bg-opacity-40 rounded">
-                        <p class="text-xl mb-2"><span class="muted">Threshold Pace (Target: 6:04-6:19/mi):</span></p>
-                        <div class="ml-4 space-y-1 text-base">
-                            <p>Week 1: <span class="success">6:06, 6:22, 6:36 ✓ GOOD</span> - mostly in zone</p>
-                            <p>Week 3: <span class="success">6:09 avg ✓ PERFECT</span> - dead center of zone!</p>
-                        </div>
-                        <p class="mt-3 success text-sm">→ <b>Excellent!</b> Threshold efforts right on target.</p>
-                    </div>
-
-                    <div class="p-4 bg-black bg-opacity-40 rounded">
-                        <p class="text-xl mb-2"><span class="muted">Interval/VO₂max Pace (Target: 5:41-5:55/mi):</span></p>
-                        <div class="ml-4 space-y-1 text-base">
-                            <p>Week 1: <span class="warning">6:01, 6:03 ~</span> <span class="success">5:58, 5:58, 5:59, 5:59, 5:51 ✓</span> - mixed bag</p>
-                            <p>Week 2: <span class="warning">5:56 avg (6x1km) ~ CLOSE</span> - 1 sec/mi outside zone</p>
-                            <p>Week 4: <span class="success">5:51, 5:50, 5:54, 5:55 ✓ PERFECT</span> - all 4 in zone!</p>
-                        </div>
-                        <p class="mt-3 success text-sm">→ <b>Improving!</b> Week 4 showed perfect execution and consistency.</p>
-                    </div>
-
-                    <div class="p-4 bg-black bg-opacity-40 rounded">
-                        <p class="text-xl mb-2"><span class="muted">Half Marathon Pace (Target: 6:19/mi):</span></p>
-                        <div class="ml-4 text-base">
-                            <p class="muted">No HM pace sessions yet (planned for Weeks 6+)</p>
-                        </div>
-                    </div>
+            <!-- Cross-Training Summary -->
+            <div class="card p-6 rounded-lg">
+                <h2 class="text-2xl font-bold mb-4 border-b border-current pb-2">▓▓▓ CROSS-TRAINING SUMMARY ▓▓▓</h2>
+                <pre class="text-sm">
+Week 1: 43 mi cycling    [████████████░░░░░░░░]
+Week 2: 45 mi cycling    [█████████████░░░░░░░]
+Week 5: 34 mi cycling    [██████████░░░░░░░░░░]
+Week 6: 68 mi cycling    [████████████████████] 💪 Maintained fitness during illness!
+                </pre>
+                <div class="mt-4 text-base">
+                    <p class="muted">You're using cycling intelligently to support running:</p>
+                    <ul class="list-disc list-inside muted mt-2 ml-4 space-y-1">
+                        <li>Active recovery between run sessions</li>
+                        <li>Aerobic fitness maintenance during illness (smart!)</li>
+                        <li>Low-impact cardio supplementing run volume</li>
+                    </ul>
+                    <p class="success mt-3">Nice balance! The bike work is complementing, not replacing running.</p>
                 </div>
             </div>
 
             <!-- Coach's Commentary -->
             <div class="card p-6 rounded-lg border-4 border-double">
-                <h2 class="text-2xl font-bold mb-4 border-b-2 border-current pb-2 glow">💬 COACH'S COMMENTARY</h2>
+                <h2 class="text-2xl font-bold mb-4 border-b border-current pb-2 glow">💬 COACH'S COMMENTARY</h2>
                 <div class="space-y-4 text-base leading-relaxed">
-                    <p class="text-lg bright">Right, let's talk about where you are...</p>
+                    <p class="text-lg accent font-bold">Alright, let's talk about where you're at! 🏃</p>
 
-                    <div class="p-4 bg-black bg-opacity-60 rounded">
-                        <p class="accent font-bold text-lg mb-2">🎉 The Excellent Stuff:</p>
-                        <p>Week 4 was absolutely brilliant. Those VO₂max intervals? You nailed every single one - 5:51, 5:50, 5:54, 5:55. That's the kind of consistency that wins races. Your heart rate progression (151→162→166→171) was textbook - each rep got harder but you held the pace. That's mental toughness right there.</p>
-                        <p class="mt-2">And here's what really impressed me: <b>you've figured out how to run easy!</b> Week 4's easy run at 7:56/mi with a HR of 134 was absolutely perfect. Then you followed it up with a 12-miler with nearly 1,000 feet of climbing that felt "easy" even in wet, miserable conditions. That's your aerobic base building, mate.</p>
+                    <p>You're <span class="accent font-bold">halfway through</span> the plan (6 of 12 weeks done), and honestly? You're doing really well. Yeah, the volume is a bit behind - you've logged 143 miles vs ~182 planned (79%) - but before you panic, let me tell you why I'm not worried...</p>
+
+                    <div class="p-4 bg-black bg-opacity-40 rounded-lg">
+                        <p class="success font-bold text-lg">✓ THE GOOD STUFF (and there's a lot!):</p>
+                        <ul class="list-disc list-inside muted mt-2 space-y-2 ml-4">
+                            <li><span class="accent">Quality over quantity</span> - You're nailing the hard workouts. Threshold at 6:09? Intervals at 5:52? That's exactly where you need to be.</li>
+                            <li><span class="accent">Smart pacing discipline</span> - Week 4 easy run at 7:56/mi was textbook perfect. That's rare!</li>
+                            <li><span class="accent">Excellent decision-making</span> - Week 6 illness? You backed off, tested carefully with that trail run, then executed a brilliant long run with steady finish when ready. That's pro-level judgment.</li>
+                            <li><span class="accent">Adaptive training</span> - Using 68 miles of cycling during illness week to maintain fitness without stressing your respiratory system? Chef's kiss! 👌</li>
+                            <li><span class="accent">Consistent execution</span> - 14 of 18 sessions (78%) is solid, especially given you were ill for a week.</li>
+                        </ul>
                     </div>
 
-                    <div class="p-4 bg-black bg-opacity-60 rounded">
-                        <p class="warning font-bold text-lg mb-2">⚠️ Things to Watch:</p>
-                        <p><b>Sleep and travel:</b> You mentioned sleep hasn't been great with all the travel (Germany, Rotterdam). You're managing now, but keep an eye on this. If you start feeling run down or workouts start feeling harder than they should, we'll need to back off before it becomes a problem.</p>
-                        <p class="mt-2"><b>Strides:</b> You keep skipping the 6 strides after easy runs. Not critical, but they're there for a reason - keeps your legs feeling snappy without adding fatigue. Takes 5 minutes. Try to get them in!</p>
-                        <p class="mt-2"><b>Week 3 race:</b> Missing that York 5K meant losing some planned volume, but honestly? Four days rest probably helped you come back strong in Week 4. Silver lining.</p>
+                    <div class="p-4 bg-black bg-opacity-40 rounded-lg mt-4">
+                        <p class="warning font-bold text-lg">⚠ THINGS TO WATCH:</p>
+                        <ul class="list-disc list-inside muted mt-2 space-y-2 ml-4">
+                            <li><span class="warning">Easy runs occasionally short</span> - A few weeks you cut the easy runs a bit short (Weeks 2, 5). Not a crisis, but try to hit the full distance when you can. Those easy miles build your aerobic base.</li>
+                            <li><span class="warning">Week 3 parkrun miss</span> - You had 4 rest days after missing the parkrun, which led to the modified Week 4. Not ideal, but you adapted well.</li>
+                            <li><span class="warning">Illness week impact</span> - Week 6 was 61% of planned volume. You've got a 12K trail race coming up this week - use that Tuesday threshold session as your fitness check!</li>
+                        </ul>
                     </div>
 
-                    <div class="p-4 bg-black bg-opacity-60 rounded">
-                        <p class="success font-bold text-lg mb-2">✓ The Bottom Line:</p>
-                        <p class="text-lg">You're <span class="bright font-bold">crushing this</span>. Seriously. Volume at 94% of target, workouts executed with precision, pacing discipline has done a complete 180 from where you started. The fitness is building exactly as we'd hope.</p>
-                        <p class="mt-2">You just finished the Foundation phase and you're stepping into Build. Week 5 brings 5 mile repeats (up from 4) and a 13.5-mile long run. Based on how Week 4 went? You're absolutely ready for it.</p>
-                        <p class="mt-2">Keep doing exactly what you're doing. Monitor that sleep/recovery. And seriously, throw in those strides! 😄</p>
+                    <p class="text-lg mt-6"><span class="accent font-bold">The Big Picture:</span></p>
+                    <p>Your <span class="success font-bold">quality work is on point</span>, which is what really matters. You can't fake interval sessions at 5:52/mile or threshold work at 6:09. That fitness is REAL. The volume being slightly behind? Honestly, that's often better than grinding out junk miles just to hit a number.</p>
+
+                    <p class="mt-4">Week 6 illness was a curveball, but you played it perfectly. Now you're heading into Week 7 with a 12K trail race. Here's the play:</p>
+
+                    <div class="p-4 bg-black bg-opacity-50 rounded-lg mt-4 border-l-4 border-green-400">
+                        <p class="accent font-bold">Week 7 Game Plan:</p>
+                        <ol class="list-decimal list-inside muted mt-2 space-y-2 ml-4">
+                            <li>Skip/minimize that Sun/Mon run (you're still recovering)</li>
+                            <li><span class="accent font-bold">Tuesday threshold session (2x2 miles) = YOUR FITNESS TEST</span></li>
+                            <li>If Tuesday feels good (HR normal, hitting 6:04-6:19 pace comfortably) → Race Saturday HARD</li>
+                            <li>If Tuesday feels rough → Race Saturday smart/controlled</li>
+                        </ol>
                     </div>
 
-                    <div class="p-4 bg-black bg-opacity-60 rounded border-2 border-current">
-                        <p class="bright font-bold text-lg mb-2">📍 Where You Stand:</p>
-                        <p><span class="muted">Fitness Level:</span> <span class="success">Strong and building</span></p>
-                        <p><span class="muted">VO₂max Capacity:</span> <span class="success">Hitting 5:50s consistently</span></p>
-                        <p><span class="muted">Aerobic Base:</span> <span class="success">Solid - easy running at appropriate effort</span></p>
-                        <p><span class="muted">Pacing Discipline:</span> <span class="success">Excellent improvement</span></p>
-                        <p><span class="muted">Recovery:</span> <span class="warning">Good but monitor sleep</span></p>
-                        <p><span class="muted">Confidence Level:</span> <span class="bright font-bold">Very High</span></p>
-                    </div>
+                    <p class="text-lg mt-6 success font-bold glow">Bottom Line:</p>
+                    <p>You're ON TRACK. The fitness is there. Your pacing is disciplined. Your decision-making is smart. The slight volume deficit is mostly from one illness week, and you're handling it maturely.</p>
+
+                    <p class="mt-4">Week 8 is a recovery week (perfect timing after the race), then you hit the Specific Phase where we start practicing that 6:19 race pace. You've built the engine - now we're going to tune it for race day.</p>
+
+                    <p class="mt-4 accent"><span class="font-bold">Trust the process.</span> Keep executing those quality sessions. Keep those easy runs actually easy. And let's see what you can do at that 12K trail race! 💪</p>
                 </div>
             </div>
 
             <!-- Next Week Preview -->
             <div class="card p-6 rounded-lg">
-                <h2 class="text-2xl font-bold mb-4 border-b-2 border-current pb-2">🔮 NEXT WEEK: WEEK 5 PREVIEW</h2>
-                <div class="p-4 bg-black bg-opacity-40 rounded mb-4">
-                    <p class="text-xl mb-2"><span class="muted">Phase:</span> <span class="bright">Build (Week 2 of 4)</span></p>
-                    <p class="text-xl mb-2"><span class="muted">Target Volume:</span> <span class="accent">32.0 miles</span></p>
-                    <p class="text-base muted">Focus: Continue VO₂max development with added volume</p>
-                </div>
-
+                <h2 class="text-2xl font-bold mb-4 border-b border-current pb-2">▓▓▓ WEEK 7 PREVIEW (Race Week!) ▓▓▓</h2>
+                <p class="text-lg mb-4">
+                    <span class="muted">Target Volume:</span> <span class="accent">25-28 miles</span> <span class="muted">(modified from 35mi)</span>
+                </p>
                 <div class="space-y-3">
-                    <div class="p-3 bg-black bg-opacity-60 rounded">
-                        <p class="accent font-bold mb-1">📅 Day 1 (Tue/Wed): VO₂max Intervals</p>
-                        <p class="ml-4">5 x 1 mile @ I pace (5:41-5:55/mi)</p>
-                        <p class="ml-4 text-sm muted">↑ One more rep than Week 4 (4 → 5)</p>
-                        <p class="ml-4 text-sm muted">Total: 8.5 miles with warm-up/cool-down</p>
-                        <p class="ml-4 text-sm success mt-1">→ You crushed the 4x1mi. Five is the next step. Start conservatively!</p>
+                    <p class="accent font-bold text-lg">🎯 Key Focus: 12K Trail Race Prep</p>
+
+                    <div class="p-4 bg-black bg-opacity-30 rounded">
+                        <p class="success font-bold">Modified Schedule (Post-Illness):</p>
+                        <ul class="list-none muted mt-2 space-y-2 ml-2">
+                            <li><span class="warning">→</span> <span class="accent">Sun/Mon (Mar 2-3):</span> Skip or very light 3-4 miles if restless</li>
+                            <li><span class="success">→</span> <span class="accent font-bold">Tue (Mar 4):</span> <span class="success font-bold">2 x 2 miles @ Threshold (6:04-6:19)</span> - FITNESS CHECK!</li>
+                            <li><span class="warning">→</span> <span class="accent">Thu (Mar 6):</span> Easy 5-6 miles (conversational)</li>
+                            <li><span class="warning">→</span> <span class="accent">Fri (Mar 7):</span> Shakeout 4 miles easy + strides</li>
+                            <li><span class="success">→</span> <span class="accent font-bold">Sat (Mar 8):</span> <span class="success font-bold">12K TRAIL RACE</span> 🏃💨</li>
+                        </ul>
                     </div>
 
-                    <div class="p-3 bg-black bg-opacity-60 rounded">
-                        <p class="accent font-bold mb-1">📅 Day 2 (Thu/Fri): Easy Run + Strides</p>
-                        <p class="ml-4">10 miles @ E pace (7:35-8:13/mi) + 6 strides</p>
-                        <p class="ml-4 text-sm muted">↑ Stepping up from 9 miles</p>
-                        <p class="ml-4 text-sm warning mt-1">→ Remember those strides this time! 6 x 20sec smooth accelerations.</p>
+                    <div class="mt-4 p-4 bg-black bg-opacity-40 rounded-lg border-l-4 border-yellow-400">
+                        <p class="warning font-bold">Race Strategy Decision Tree:</p>
+                        <p class="muted mt-2">Tuesday's threshold session tells you everything:</p>
+                        <ul class="list-disc list-inside muted mt-2 ml-4 space-y-1">
+                            <li>HR normal for threshold effort (160s-170s) → ✓ Ready to race</li>
+                            <li>Hitting 6:04-6:19 pace feels controlled → ✓ Ready to race</li>
+                            <li>Recovery between reps feels manageable → ✓ Ready to race</li>
+                        </ul>
+                        <p class="success mt-3">All green lights → SEND IT on Saturday!</p>
+                        <p class="warning mt-2">Anything feels off → Race smart/controlled, use as quality training</p>
                     </div>
 
-                    <div class="p-3 bg-black bg-opacity-60 rounded">
-                        <p class="accent font-bold mb-1">📅 Day 3 (Sat/Sun): Long Run</p>
-                        <p class="ml-4">13.5 miles @ E pace (7:35-8:13/mi)</p>
-                        <p class="ml-4 text-sm muted">↑ Biggest long run yet (from 12 miles)</p>
-                        <p class="ml-4 text-sm success mt-1">→ If 12 with 928ft felt easy, 13.5 on flatter terrain will be fine.</p>
+                    <div class="mt-4 p-4 bg-black bg-opacity-30 rounded">
+                        <p class="muted font-bold">What This Week Gives You:</p>
+                        <ul class="list-disc list-inside muted mt-2 ml-4 space-y-1">
+                            <li>Threshold work to confirm recovery</li>
+                            <li>Race-specific stimulus from 12K effort</li>
+                            <li>Neuromuscular work from varied trail terrain</li>
+                            <li>Perfect setup for Week 8 recovery week</li>
+                        </ul>
                     </div>
                 </div>
 
-                <div class="mt-6 p-4 bg-black bg-opacity-60 rounded border-2 border-current">
-                    <p class="bright font-bold mb-2">💪 Week 5 Strategy:</p>
-                    <p class="text-sm">• <b>VO₂max session:</b> Start conservatively. Aim for 5:50 on rep 1, then settle in.</p>
-                    <p class="text-sm">• <b>Easy run:</b> Keep it genuinely easy. Don't let the added mileage tempt you to push.</p>
-                    <p class="text-sm">• <b>Long run:</b> This is your longest yet. Stay patient, fuel properly, trust your fitness.</p>
-                    <p class="text-sm">• <b>Recovery:</b> Keep monitoring that sleep. This is a step up in volume.</p>
-                    <p class="mt-3 success"><b>You're ready for this. Let's keep the momentum going!</b></p>
-                </div>
+                <p class="mt-6 accent text-lg font-bold">Then Week 8 = Recovery week (perfect timing!) before the Specific Phase begins! 🎯</p>
             </div>
 
+            <!-- Training Metrics Summary -->
+            <div class="card p-6 rounded-lg">
+                <h2 class="text-2xl font-bold mb-4 border-b border-current pb-2">▓▓▓ TRAINING METRICS SUMMARY ▓▓▓</h2>
+                <div class="grid grid-cols-2 gap-6">
+                    <div>
+                        <p class="accent font-bold mb-2">Volume Metrics:</p>
+                        <ul class="list-none muted space-y-1 text-sm">
+                            <li>• Total miles: <span class="accent">143.0 / 182 (79%)</span></li>
+                            <li>• Weekly avg: <span class="accent">23.8 mi/wk</span></li>
+                            <li>• Highest week: <span class="accent">27.3 mi (Week 4)</span></li>
+                            <li>• Build phase avg: <span class="accent">25.1 mi/wk</span></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <p class="accent font-bold mb-2">Quality Metrics:</p>
+                        <ul class="list-none muted space-y-1 text-sm">
+                            <li>• Sessions: <span class="accent">14 / 18 (78%)</span></li>
+                            <li>• Threshold pace: <span class="success">6:09 ✓</span></li>
+                            <li>• Interval pace: <span class="success">5:52 ✓</span></li>
+                            <li>• Easy pace: <span class="success">8:10 ✓</span></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="mt-6 p-4 bg-black bg-opacity-40 rounded">
+                    <p class="success font-bold">Fitness Indicators:</p>
+                    <ul class="list-disc list-inside muted mt-2 ml-4 space-y-1 text-sm">
+                        <li>VO₂max development: <span class="success">Strong</span> (hitting 5:50s)</li>
+                        <li>Threshold fitness: <span class="success">Excellent</span> (6:09 avg)</li>
+                        <li>Aerobic base: <span class="success">Solid</span> (easy pace discipline improving)</li>
+                        <li>Recovery ability: <span class="success">Good</span> (bounced back from illness well)</li>
+                    </ul>
+                </div>
+            </div>
         </div>
 
-        <!-- Footer -->
-        <footer class="mt-8 text-center muted text-sm py-4 border-t border-current">
-            <p>═══════════════════════════════════════════════════════</p>
-            <p class="mt-2">Generated: February 14, 2026 • dashboard.html</p>
-            <p>Terminal Green Theme • Detailed Layout • Conversational Commentary</p>
-            <p class="mt-2">Refresh after updating training logs to see latest data</p>
-            <p>═══════════════════════════════════════════════════════</p>
+        <footer class="mt-8 text-center muted text-sm py-4 border-t border-green-800">
+            <p>═══════════════════════════════════════════════════════════════</p>
+            <p class="mt-2">Generated: February 28, 2026 • dashboard.html</p>
+            <p class="text-xs mt-2">Keep executing. Trust the process. You've got this! 💪</p>
+            <p class="mt-2">═══════════════════════════════════════════════════════════════</p>
         </footer>
     </div>
 </body>
