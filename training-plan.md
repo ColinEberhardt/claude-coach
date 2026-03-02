@@ -52,9 +52,9 @@ Use these paces for workouts throughout the plan:
 **Total Volume**: 24.5 miles
 **Focus**: Establish routine with immediate quality work
 
-- **Day 1 (Tue/Wed)**: Threshold - 1.5 mile easy warm-up, 3 x 1 mile @ T pace (6:04-6:19), 0.25 mile jog recovery, 1 mile easy cool-down (Total: 6.5 miles)
-- **Day 2 (Thu/Fri)**: Easy 8 miles @ E pace (7:35-8:13) + 6 strides
-- **Day 3 (Sat/Sun)**: Long Run - 10 miles easy @ E pace
+- **Session 1**: Threshold - 1.5 mile easy warm-up, 3 x 1 mile @ T pace (6:04-6:19), 0.25 mile jog recovery, 1 mile easy cool-down (Total: 6.5 miles)
+- **Session 2**: Easy 8 miles @ E pace (7:35-8:13) + 6 strides
+- **Session 3**: Long Run - 10 miles easy @ E pace
 
 **Notes**: Start strong but controlled. The threshold work should feel comfortably hard, not all-out. Save energy for the long run.
 
@@ -64,9 +64,9 @@ Use these paces for workouts throughout the plan:
 **Total Volume**: 28 miles
 **Focus**: Introduce VO₂max work, continue building volume
 
-- **Day 1 (Tue/Wed)**: Intervals - 1.5 mile easy warm-up, 6 x 1km @ I pace (5:41-5:55), 400m jog recovery, 1 mile easy cool-down (Total: 7.5 miles)
-- **Day 2 (Thu/Fri)**: Easy 9 miles @ E pace + 6 strides
-- **Day 3 (Sat/Sun)**: Long Run - 11.5 miles easy @ E pace
+- **Session 1**: Intervals - 1.5 mile easy warm-up, 6 x 1km @ I pace (5:41-5:55), 400m jog recovery, 1 mile easy cool-down (Total: 7.5 miles)
+- **Session 2**: Easy 9 miles @ E pace + 6 strides
+- **Session 3**: Long Run - 11.5 miles easy @ E pace
 
 **Notes**: The 1km intervals should feel hard but repeatable. Focus on consistent splits rather than crushing the first rep.
 
@@ -76,13 +76,13 @@ Use these paces for workouts throughout the plan:
 **Total Volume**: 33.5-34.5 miles
 **Focus**: Build threshold endurance, aerobic volume, race stimulus
 
-- **Day 1 (Mon, Feb 3)**: Threshold - 1.5 mile easy warm-up, 4 x 1 mile @ T pace (6:04-6:19), 0.25 mile jog recovery, 1 mile easy cool-down (Total: 7.5 miles)
-- **Day 2 (Tue, Feb 4)**: Easy 12 miles @ recovery pace (~9:00/mile) - keep this VERY easy, slower than normal easy pace
-- **Day 3 (Wed, Feb 5)**: Easy 8 miles @ recovery pace (~9:00/mile) - again, keep this genuinely easy
-- **Day 4 (Thu/Fri, Feb 6-7)**: Rest days - stay off your feet before parkrun
-- **Day 5 (Sat, Feb 8)**: York Parkrun - 1.5 mile easy warm-up, race 5K hard, 1.5 mile easy cool-down (Total: 6.5-7 miles)
+- **Session 1**: Threshold - 1.5 mile easy warm-up, 4 x 1 mile @ T pace (6:04-6:19), 0.25 mile jog recovery, 1 mile easy cool-down (Total: 7.5 miles)
+- **Session 2**: Easy 12 miles @ recovery pace (~9:00/mile) - keep this VERY easy, slower than normal easy pace
+- **Session 3**: Easy 8 miles @ recovery pace (~9:00/mile) - again, keep this genuinely easy
+- **Rest days**: Stay off your feet before parkrun
+- **Session 4**: York Parkrun - 1.5 mile easy warm-up, race 5K hard, 1.5 mile easy cool-down (Total: 6.5-7 miles)
 
-**Notes**: Modified week to accommodate York parkrun opportunity. Tuesday and Wednesday runs are deliberately slower than normal easy pace (9:00/mile vs 7:35-8:13) to bank aerobic volume without creating fatigue. This gives you five days between hard efforts (Monday threshold to Saturday parkrun). The parkrun replaces the long run - you're trading easy aerobic volume for race-specific stimulus. Stick to the recovery pace discipline on Tue/Wed or you'll compromise Saturday's performance.
+**Notes**: Modified week to accommodate York parkrun opportunity. Sessions 2 and 3 are deliberately slower than normal easy pace (9:00/mile vs 7:35-8:13) to bank aerobic volume without creating fatigue. Allow adequate rest between the threshold session and the parkrun. The parkrun replaces the long run - you're trading easy aerobic volume for race-specific stimulus. Stick to the recovery pace discipline on the easy runs or you'll compromise the parkrun performance.
 
 ---
 
@@ -90,9 +90,9 @@ Use these paces for workouts throughout the plan:
 **Total Volume**: 28.5 miles
 **Focus**: VO2max development and volume building
 
-- **Day 1 (Tue/Wed)**: Intervals - 1.5 mile easy warm-up, 4 x 1 mile @ I pace (5:41-5:55), 0.25 mile jog recovery, 1 mile easy cool-down (Total: 7.5 miles)
-- **Day 2 (Thu/Fri)**: Easy 9 miles @ E pace + 6 strides
-- **Day 3 (Sat/Sun)**: Long Run - 12 miles easy @ E pace
+- **Session 1**: Intervals - 1.5 mile easy warm-up, 4 x 1 mile @ I pace (5:41-5:55), 0.25 mile jog recovery, 1 mile easy cool-down (Total: 7.5 miles)
+- **Session 2**: Easy 9 miles @ E pace + 6 strides
+- **Session 3**: Long Run - 12 miles easy @ E pace
 
 **Notes**: Modified from original recovery week plan. Week 3 parkrun was missed, resulting in 4 days rest and full recovery. Athlete feeling strong and ready for increased volume AND intensity. VO2max intervals chosen over tempo work to provide speed stimulus. Start conservatively (aim for 5:50 first rep) and assess. Keep easy runs genuinely easy - the interval work is demanding.
 
@@ -102,9 +102,9 @@ Use these paces for workouts throughout the plan:
 **Total Volume**: 32 miles
 **Focus**: Return to volume with VO₂max emphasis
 
-- **Day 1 (Tue/Wed)**: Intervals - 1.5 mile easy warm-up, 5 x 1 mile @ I pace (5:41-5:55), 0.25 mile jog recovery, 1 mile easy cool-down (Total: 8.5 miles)
-- **Day 2 (Thu/Fri)**: Easy/Moderate 10 miles @ E pace + 6 strides
-- **Day 3 (Sat/Sun)**: Long Run - 13.5 miles easy @ E pace
+- **Session 1**: Intervals - 1.5 mile easy warm-up, 5 x 1 mile @ I pace (5:41-5:55), 0.25 mile jog recovery, 1 mile easy cool-down (Total: 8.5 miles)
+- **Session 2**: Easy/Moderate 10 miles @ E pace + 6 strides
+- **Session 3**: Long Run - 13.5 miles easy @ E pace
 
 **Notes**: Mile repeats at VO₂max pace build aerobic power. Keep recoveries active (jog, don't stand).
 
@@ -114,9 +114,9 @@ Use these paces for workouts throughout the plan:
 **Total Volume**: 35 miles
 **Focus**: Longer threshold blocks, introduce quality into long run
 
-- **Day 1 (Tue/Wed)**: Threshold - 1.5 mile easy warm-up, 3 x 2 miles @ T pace (6:04-6:19), 0.5 mile jog recovery, 1 mile easy cool-down (Total: 9.5 miles)
-- **Day 2 (Thu/Fri)**: Easy 11 miles @ E pace + 6 strides
-- **Day 3 (Sat/Sun)**: Long Run - 14.5 miles, last 3 miles @ steady pace (6:57-7:16)
+- **Session 1**: Threshold - 1.5 mile easy warm-up, 3 x 2 miles @ T pace (6:04-6:19), 0.5 mile jog recovery, 1 mile easy cool-down (Total: 9.5 miles)
+- **Session 2**: Easy 11 miles @ E pace + 6 strides
+- **Session 3**: Long Run - 14.5 miles, last 3 miles @ steady pace (6:57-7:16)
 
 **Notes**: The 2-mile threshold reps build mental and physical endurance. The long run finish should feel controlled, not desperate.
 
@@ -124,15 +124,15 @@ Use these paces for workouts throughout the plan:
 
 ### Week 7 (Starting March 2, 2025): Build Phase - 12K Trail Race Week
 **Total Volume**: ~32-35 miles
-**Focus**: 12K trail race on March 8 (race effort, not a taper)
+**Focus**: 12K trail race (race effort, not a taper)
 
-- **Day 1 (Sun/Mon, March 2/3)**: Easy 8-9 miles @ E pace + 6 strides
-- **Day 2 (Tue/Wed, March 4/5)**: Threshold - 1.5 mile easy warm-up, 2 x 2 miles @ T pace (6:04-6:19), 0.5 mile jog recovery, 1 mile easy cool-down (Total: 7.5 miles)
-- **Day 3 (Thu, March 6)**: Easy 5-6 miles @ E pace (conversational, keep legs fresh)
-- **Day 4 (Fri, March 7)**: Shakeout - 4 miles very easy + 4-6 short strides (pre-race prep)
-- **Day 5 (Sat, March 8)**: **12K TRAIL RACE** - 1.5-2 mile easy warm-up, RACE EFFORT, 1.5-2 mile easy cool-down (Total: ~11-12 miles with race)
+- **Session 1**: Easy 8-9 miles @ E pace + 6 strides
+- **Session 2**: Threshold - 1.5 mile easy warm-up, 2 x 2 miles @ T pace (6:04-6:19), 0.5 mile jog recovery, 1 mile easy cool-down (Total: 7.5 miles)
+- **Session 3**: Easy 5-6 miles @ E pace (conversational, keep legs fresh)
+- **Session 4**: Shakeout - 4 miles very easy + 4-6 short strides (pre-race prep)
+- **Session 5**: **12K TRAIL RACE** - 1.5-2 mile easy warm-up, RACE EFFORT, 1.5-2 mile easy cool-down (Total: ~11-12 miles with race)
 
-**Notes**: Modified week to accommodate proper racing effort. Reduced Tuesday workout to 2x2 (from 3x2) to arrive fresh. Trail racing provides excellent neuromuscular stimulus and economy work. Race the 12K hard - the varied terrain and effort will be great training. Week 8 recovery week follows perfectly.
+**Notes**: Modified week to accommodate proper racing effort. Reduced the threshold workout to 2x2 (from 3x2) to arrive fresh. Trail racing provides excellent neuromuscular stimulus and economy work. Race the 12K hard - the varied terrain and effort will be great training. Week 8 recovery week follows perfectly.
 
 ---
 
@@ -140,9 +140,9 @@ Use these paces for workouts throughout the plan:
 **Total Volume**: 28 miles
 **Focus**: Recover from 3-week build, prepare for specific phase
 
-- **Day 1 (Tue/Wed)**: Tempo - 1.5 mile easy warm-up, 5 miles @ T pace (6:04-6:19), 1 mile easy cool-down (Total: 7.5 miles)
-- **Day 2 (Thu/Fri)**: Easy 8.5 miles @ E pace + 6 strides
-- **Day 3 (Sat/Sun)**: Long Run - 12 miles easy @ E pace
+- **Session 1**: Tempo - 1.5 mile easy warm-up, 5 miles @ T pace (6:04-6:19), 1 mile easy cool-down (Total: 7.5 miles)
+- **Session 2**: Easy 8.5 miles @ E pace + 6 strides
+- **Session 3**: Long Run - 12 miles easy @ E pace
 
 **Notes**: Second recovery week. Let your body absorb the hard training. You should feel sharp and ready for the specific phase.
 
@@ -152,9 +152,9 @@ Use these paces for workouts throughout the plan:
 **Total Volume**: 40 miles
 **Focus**: HM pace durability, structured long run quality
 
-- **Day 1 (Tue/Wed)**: HM Pace - 1.5 mile easy warm-up, 4 x 1.5 miles @ HM pace (6:19), 0.5 mile jog recovery, 1 mile easy cool-down (Total: 10 miles)
-- **Day 2 (Thu/Fri)**: Easy 12 miles @ E pace + 6 strides
-- **Day 3 (Sat/Sun)**: Long Run - 18 miles, last 6 miles @ steady pace (6:57-7:16)
+- **Session 1**: HM Pace - 1.5 mile easy warm-up, 4 x 1.5 miles @ HM pace (6:19), 0.5 mile jog recovery, 1 mile easy cool-down (Total: 10 miles)
+- **Session 2**: Easy 12 miles @ E pace + 6 strides
+- **Session 3**: Long Run - 18 miles, last 6 miles @ steady pace (6:57-7:16)
 
 **Notes**: High-quality work. The HM pace reps should feel very race-specific. Practice fueling on the long run.
 
@@ -164,9 +164,9 @@ Use these paces for workouts throughout the plan:
 **Total Volume**: 42 miles
 **Focus**: Maximum race-specific preparation, longest long run
 
-- **Day 1 (Tue/Wed)**: Mixed Quality - 1.5 mile easy warm-up, 2 x 2 miles @ T pace (6:04-6:19), 2 x 1 mile @ HM pace (6:19), 0.5 mile jog recovery between all reps, 1 mile easy cool-down (Total: 10 miles)
-- **Day 2 (Thu/Fri)**: Easy 13 miles @ E pace + 6 strides
-- **Day 3 (Sat/Sun)**: Long Run - 19 miles, middle 10 miles @ steady pace (6:57-7:16)
+- **Session 1**: Mixed Quality - 1.5 mile easy warm-up, 2 x 2 miles @ T pace (6:04-6:19), 2 x 1 mile @ HM pace (6:19), 0.5 mile jog recovery between all reps, 1 mile easy cool-down (Total: 10 miles)
+- **Session 2**: Easy 13 miles @ E pace + 6 strides
+- **Session 3**: Long Run - 19 miles, middle 10 miles @ steady pace (6:57-7:16)
 
 **Notes**: This is your peak week. The mixed quality workout simulates race fatigue. The long run with extended steady pace is your biggest confidence builder.
 
@@ -176,9 +176,9 @@ Use these paces for workouts throughout the plan:
 **Total Volume**: 38 miles
 **Focus**: Final race-specific sharpening, begin volume reduction
 
-- **Day 1 (Tue/Wed)**: HM Pace - 1.5 mile easy warm-up, 5 x 1 mile @ HM pace (6:19), 0.25 mile jog recovery, 1 mile easy cool-down (Total: 8 miles)
-- **Day 2 (Thu/Fri)**: Easy 12 miles @ E pace + 6 strides
-- **Day 3 (Sat/Sun)**: Long Run - 18 miles, last 8 miles @ HM effort (6:19-6:30)
+- **Session 1**: HM Pace - 1.5 mile easy warm-up, 5 x 1 mile @ HM pace (6:19), 0.25 mile jog recovery, 1 mile easy cool-down (Total: 8 miles)
+- **Session 2**: Easy 12 miles @ E pace + 6 strides
+- **Session 3**: Long Run - 18 miles, last 8 miles @ HM effort (6:19-6:30)
 
 **Notes**: Final big week. The long run finish should feel like race pace or slightly easier. You're practicing the race, not testing it.
 
@@ -188,18 +188,18 @@ Use these paces for workouts throughout the plan:
 **Total Volume**: ~25 miles (including race)
 **Focus**: Freshen up, maintain sharpness, arrive ready
 
-- **Day 1 (Tue/Wed)**: Sharpener - 1.5 mile easy warm-up, 3 x 1 mile @ HM pace (6:19), 0.5 mile jog recovery, 1 mile easy cool-down (Total: 6.5 miles)
-- **Day 2 (Thu/Fri)**: Easy 5 miles @ E pace + 4 strides (keep it short and snappy)
-- **Day 3 (Race Day - Sat/Sun)**: Half Marathon Race - 13.1 miles @ goal pace (6:19/mile)
+- **Session 1**: Sharpener - 1.5 mile easy warm-up, 3 x 1 mile @ HM pace (6:19), 0.5 mile jog recovery, 1 mile easy cool-down (Total: 6.5 miles)
+- **Session 2**: Easy 5 miles @ E pace + 4 strides (keep it short and snappy)
+- **Session 3 (Race Day)**: Half Marathon Race - 13.1 miles @ goal pace (6:19/mile)
 
-**Notes**: Trust your training. The work is done. The sharpener keeps your legs feeling fast without creating fatigue. Stay off your feet the day before the race. Execute your race plan with confidence.
+**Notes**: Trust your training. The work is done. The sharpener keeps your legs feeling fast without creating fatigue. Take a rest day before the race. Execute your race plan with confidence.
 
 ---
 
 ## Important Notes
 
 ### Easy Days Should Feel Easy
-With only 3 training days per week, recovery between sessions happens during your rest days. Your easy pace (7:35-8:13) should feel genuinely comfortable - you should be able to hold a full conversation. Don't let ego creep into easy runs. The goal is aerobic development and recovery, not proving toughness.
+With only 3 training sessions per week, recovery between sessions happens during your rest days. Your easy pace (7:35-8:13) should feel genuinely comfortable - you should be able to hold a full conversation. Don't let ego creep into easy runs. The goal is aerobic development and recovery, not proving toughness.
 
 ### Fueling and Hydration
 - Practice fueling during long runs starting in Week 6
@@ -209,7 +209,7 @@ With only 3 training days per week, recovery between sessions happens during you
 - Stay hydrated but don't over-drink
 
 ### Strength Training
-With 3 running days, you have 4 rest days available. Consider adding:
+With 3 running sessions, you have 4 rest days available. Consider adding:
 - 1-2 strength sessions per week (focus on single-leg strength, core stability, glute activation)
 - Schedule strength after easy runs or on full rest days
 - Reduce strength volume during taper (Week 11-12)
