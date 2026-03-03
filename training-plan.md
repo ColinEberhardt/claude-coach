@@ -123,16 +123,14 @@ Use these paces for workouts throughout the plan:
 ---
 
 ### Week 7 (Starting March 2, 2025): Build Phase - 12K Trail Race Week
-**Total Volume**: ~32-35 miles
+**Total Volume**: ~30 miles
 **Focus**: 12K trail race (race effort, not a taper)
 
-- **Session 1**: Easy 8-9 miles @ E pace + 6 strides
-- **Session 2**: Threshold - 1.5 mile easy warm-up, 2 x 2 miles @ T pace (6:04-6:19), 0.5 mile jog recovery, 1 mile easy cool-down (Total: 7.5 miles)
-- **Session 3**: Easy 5-6 miles @ E pace (conversational, keep legs fresh)
-- **Session 4**: Shakeout - 4 miles very easy + 4-6 short strides (pre-race prep)
-- **Session 5**: **12K TRAIL RACE** - 1.5-2 mile easy warm-up, RACE EFFORT, 1.5-2 mile easy cool-down (Total: ~11-12 miles with race)
+- **Session 1**: Threshold - 1.5 mile easy warm-up, 3 x 2 miles @ T pace (6:04-6:19), 0.5 mile jog recovery, 1 mile easy cool-down (Total: 9.5 miles)
+- **Session 2**: Easy 10 miles @ recovery pace (~9:00/mile) - keep this genuinely easy, slower than normal easy pace
+- **Session 3**: **12K TRAIL RACE** - 1.5-2 mile easy warm-up, RACE EFFORT, 1.5-2 mile easy cool-down (Total: ~11-12 miles with race)
 
-**Notes**: Modified week to accommodate proper racing effort. Reduced the threshold workout to 2x2 (from 3x2) to arrive fresh. Trail racing provides excellent neuromuscular stimulus and economy work. Race the 12K hard - the varied terrain and effort will be great training. Week 8 recovery week follows perfectly.
+**Notes**: Modified to 3-session week due to time constraints. Athlete well-rested, so returned to full 3x2 threshold workout from week 6 (spaced 5-6 days before race). Session 2 uses recovery pace strategy to bank aerobic volume without creating fatigue that would compromise racing. Trail racing provides excellent neuromuscular stimulus and economy work. Race the 12K hard - the varied terrain and effort will be great training. Week 8 recovery week follows perfectly to absorb this load.
 
 ---
 
